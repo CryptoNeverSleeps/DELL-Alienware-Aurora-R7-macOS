@@ -3,9 +3,30 @@ Full working macOS for DELL Alienware Aurora R6/R7/R8.
 
 There may still exist some issues in this configuration, if you have any problem or improvement, you can share it through submitting an issue.   
 
-My machine: Aurora R7 with i7-8700, ~~GTX 1080~~, 32GB memory, RX 580, 480g nvme ssd, DW1830 wifi+bluetooth card
-
 # Update log  
+
+**03/04/2020**
+
+Updated all kext to latest version.
+
+Clover updated to v5104
+
+Alienware Aurora R7 -
+
+Windows 10 Pro -
+1TB - Samsung EVO Plus NVMe
+12TB - Data Sata Drive
+
+macOS Catalina 10.15.3
+1TB - Samsung EVO Plus NVMe
+
+3.2Ghz 6-Core i7-8700
+Turbo Speed 4.6 GHz
+
+48GB DDR4 2133 Memory
+
+Saphire Nitro:
+AMD RX 580 (8GB) Graphics Card
 
 **2020/01/12**
 
